@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<style>
+  body {background:black;}
+h1 {color: white;}
+
+p {color: white}
+
+</style>
+
+<title> Fernies Kithchen! </title>
+
+</head>
+
+<h1> Lets make Eggs! </h1>
+
+<p> <strong> Here's how you make the perfect eggs </strong>! </p>
+  <p>Take some time to think of what you would like to build here, and how you want to build it.</p>
+  <p> Now that you have done that, I want to say thank you for taking your time to learn with me, and hopefully strive with me</p>
+<p> Shall We get to cooking?!</p>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpxhere.com%2Fen%2Fphoto%2F1606601&psig=AOvVaw3NiTymjxGtuZVx-905tD7V&ust=1759194888795000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCNiOs-Xl_I8DFQAAAAAdAAAAABAp" alt= "filler">
+ </body>
+</html>
